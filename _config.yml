@@ -8,6 +8,4 @@ url: "https://hamdilyes.github.io/"
 
 header_pages:
   - home.md
-  - mathematical-olympiad.md
-  - quantitative-research.md
-  - investing.md
+  - blog.md
