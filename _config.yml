@@ -7,5 +7,5 @@ baseurl: ""
 url: "https://hamdilyes.github.io/"
 
 header_pages:
-  - home.md
+  - index.md
   - blog.md
