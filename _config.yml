@@ -9,3 +9,5 @@ url: "https://hamdilyes.github.io/"
 header_pages:
   - index.md
   - blog.md
+
+logo: /logo.png
