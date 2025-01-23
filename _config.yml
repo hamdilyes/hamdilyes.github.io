@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+
+title: My Website
+description: Welcome to my GitHub Pages site!
+author: Ilyes Hamdi
+baseurl: ""
+url: "https://hamdilyes.github.io/"
+
+header_pages:
+  - home.md
+  - mathematical-olympiad.md
+  - quantitative-research.md
+  - investing.md
