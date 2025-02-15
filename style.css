@@ -1,24 +1,24 @@
 @media (prefers-color-scheme: light)
 {
     :root {
-        --background: rgb(220, 235, 255);
-        --background-transparent: rgba(255, 255, 255, 0.8);
-        --foreground: rgb(15, 32, 65);
-        --foreground-inv: rgb(240, 248, 255);
-        --accent-background: rgb(170, 200, 255);
-        --accent-foreground: rgb(10, 50, 130);
+        --background: #0d1b2a;
+        --background-transparent: rgba(13, 27, 42, 0.9);
+        --foreground: #e0e1dd;
+        --foreground-inv: #0d1b2a;
+        --accent-background: #e76f51;
+        --accent-foreground: #457b9d;
     }
 }
 
 @media (prefers-color-scheme: dark)
 {
     :root {
-        --background: rgb(10, 25, 70);
-        --background-transparent: rgba(0, 0, 30, 0.7);
-        --foreground: rgb(240, 248, 255);
-        --foreground-inv: rgb(10, 25, 70);
-        --accent-background: rgb(30, 60, 120);
-        --accent-foreground: rgb(80, 180, 255);
+        --background: #1b263b;
+        --background-transparent: rgba(27, 38, 59, 0.9);
+        --foreground: #e0e1dd;
+        --foreground-inv: #1b263b;
+        --accent-background: #e76f51;
+        --accent-foreground: #a8dadc;
     }
 }
 
