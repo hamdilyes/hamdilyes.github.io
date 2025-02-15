@@ -351,33 +351,9 @@ footer{
     transition-duration: 400ms;
 }
 
-.icon-eclipium {
-    -webkit-mask-image: url(Assets/eclipium.webp);
-    mask-image: url(Assets/eclipium.webp);
-}
-.icon-si {
-    -webkit-mask-image: url(Assets/SmartInstaller.webp);
-    mask-image: url(Assets/SmartInstaller.webp);
-}
-.icon-astrare {
-    -webkit-mask-image: url(Assets/Astrare.webp);
-    mask-image: url(Assets/Astrare.webp);
-}
-.icon-aoi {
-    -webkit-mask-image: url(https://algerianoi.com/aoi_white.png);
-    mask-image: url(https://algerianoi.com/aoi_white.png);
-}
-.icon-lsam {
-    -webkit-mask-image: url(Assets/LSAM.webp);
-    mask-image: url(Assets/LSAM.webp);
-}
-.icon-ss {
-    -webkit-mask-image: url(Assets/SpeedCodeSnippets.webp);
-    mask-image: url(Assets/SpeedCodeSnippets.webp);
-}
-.icon-usaiii {
-    -webkit-mask-image: url(Assets/UsaIII.webp);
-    mask-image: url(Assets/UsaIII.webp);
+.icon-amo {
+    -webkit-mask-image: url(Assets/amo.png);
+    mask-image: url(Assets/amo.png);
 }
 
 .project:hover .icon{
