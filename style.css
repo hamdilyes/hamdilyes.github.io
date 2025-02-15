@@ -125,9 +125,11 @@ nav img{
     content: "Ilyes Hamdi";
 }
 
+/*
 #content1 h1:hover:after{
     content: "hamdilyes";
 }
+*/
 
 #content1 h2{
     font-size: calc(100vw / 32);
