@@ -122,11 +122,11 @@ nav img{
     margin-bottom: 0px;
     padding: 0;
     margin: 0;
-    content: "Raouf Ould Ali";
+    content: "Ilyes Hamdi";
 }
 
 #content1 h1:hover:after{
-    content: "SpeedCode";
+    content: "";
 }
 
 #content1 h2{
