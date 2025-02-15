@@ -1,11 +1,10 @@
 theme: jekyll-theme-cayman
 
-title: My Website
-description: Welcome to my GitHub Pages site!
-author: Ilyes Hamdi
-baseurl: ""
+title: Ilyes Hamdi
+description:
+author:
+baseurl:
 url: "https://hamdilyes.github.io/"
 
 header_pages:
   - index.md
-  - blog.md
