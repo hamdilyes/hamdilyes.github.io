@@ -1,6 +1,31 @@
 @media (prefers-color-scheme: light)
 {
     :root {
+        --background: rgb(220, 235, 255);
+        --background-transparent: rgba(255, 255, 255, 0.8);
+        --foreground: rgb(15, 32, 65);
+        --foreground-inv: rgb(240, 248, 255);
+        --accent-background: rgb(170, 200, 255);
+        --accent-foreground: rgb(10, 50, 130);
+    }
+}
+
+@media (prefers-color-scheme: dark)
+{
+    :root {
+        --background: rgb(10, 25, 70);
+        --background-transparent: rgba(0, 0, 30, 0.7);
+        --foreground: rgb(240, 248, 255);
+        --foreground-inv: rgb(10, 25, 70);
+        --accent-background: rgb(30, 60, 120);
+        --accent-foreground: rgb(80, 180, 255);
+    }
+}
+
+/*
+@media (prefers-color-scheme: light)
+{
+    :root {
         --background:rgb(228, 229, 233);
         --background-transparent:#fff8;
         --foreground: rgb(19, 21, 27);
@@ -21,6 +46,7 @@
         --accent-foreground:#ee9e68;
     }
 }
+*/
 
 a{
     color: var(--accent-foreground);
